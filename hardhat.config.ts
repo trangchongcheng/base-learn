@@ -62,7 +62,7 @@ module.exports = {
   networks: {
     base: {
       url: "https://sepolia.base.org",
-      accounts: [``],
+      accounts: [`điền private key ở đây rồi lưu lại`],
     },
   },
 };
